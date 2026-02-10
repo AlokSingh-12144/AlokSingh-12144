@@ -32,10 +32,11 @@ const Alok = {
       Database: ["MySQL", "MongoDB"]
     },
   }
-
-funFact: "Most bugs disappear after a coffee and a clean commit history"
 };
 ```
+<!--funFact: "Most bugs disappear after a coffee and a clean commit history"-->
+### ✍️ Fun Fact
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning new things</b> so if you want to drop a knowledge key, please do so cuz <b>I'll be happy to learn more!</b> 😊</em>
 
