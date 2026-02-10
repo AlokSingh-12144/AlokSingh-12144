@@ -33,3 +33,4 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning new things</b> so if you want to drop a knowledge key, please do so cuz <b>I'll be happy to learn more!</b> 😊</em>
 
 ---
+  ![Snake animation](https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg)
