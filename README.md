@@ -7,7 +7,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: alok](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=aloksingh12144/)](https://www.linkedin.com/me?trk=aloksingh12144/)
+[![Linkedin: alok](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloksingh12144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/aloksingh12144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![GitHub followers](https://img.shields.io/github/followers/AlokSingh-12144?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=None/)](/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as8881355811@gmail.com) 
